@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@types/nodemailer": "^6.4.17",
+    "dotenv": "^16.4.5",
     "nodemailer": "^6.9.16"
   }
 }
